@@ -1,6 +1,2 @@
-# this is a bash script file
-# run it like:
-# bash script.sh
+# hello this is the fixed version of my merging branch conflict
 
-# git switch -c <NAME>: will create a new branch and switch to it
-echo "my second branch"
